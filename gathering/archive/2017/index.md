@@ -326,7 +326,7 @@ Rob explores mathematical knots, and explains how all manipulations can be carri
 
 - [Rob's slides (PDF)]({{site.url}}/assets/talks/2017/RobLow-Whyknot.pdf)
 
-#### Philipp Reinhard: From a tweet to Langnaus 4th problem in < 5min
+#### Philipp Reinhard: From a tweet to Landau's 4th problem in < 5min
 
 Philipp spotted a riddle tweeted recently by one [@ColintheMathmo](http://www.twitter.com/colinthemathmo), which asked can you find 'three integers in an arithmetic progression whose product is prime?'. He worked out that, when rephrased in the complex integers, this seemingly impossible puzzle boils down to 'How many numbers of the form n² + 1 are prime?'. This, Philipp tells us, is a famously [unsolved problem](https://en.wikipedia.org/wiki/Landau%27s_problems). 
 
